@@ -8,9 +8,9 @@
 <br>
 <a href="login.php">login</a><br>
 <a href="register.php">register</a><br>
-<a href="index.php">getquotes</a><br>
-<a href="sellquotes.php">sellquotes</a><br>
-<a href="buystock.php">buystock</a><br>
+<a href="getquotes.php">getquotes</a><br>
+<a href="sell.php">sellquotes</a><br>
+<a href="buy.php">buystock</a><br>
 </body>
 </html>
 
